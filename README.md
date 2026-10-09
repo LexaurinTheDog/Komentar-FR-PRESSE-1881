@@ -1,6 +1,6 @@
 # Commentaire de la loi du 29 juillet 1881 sur la liberté de la presse
 
-Commentaire d'un texte de droit français : **loi du 29 juillet 1881 sur la liberté de la presse** (JORF du 30 juillet 1881, NOR LGFX0877119L). Il couvre **82 articles** répartis en **3 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
+Commentaire d'un texte de droit français : **loi du 29 juillet 1881 sur la liberté de la presse** (JORF du 30 juillet 1881, NOR LGFX0877119L). Il couvre **99 articles** (82 articles en vigueur et 17 articles abrogés ou périmés, reproduits pour que la numérotation soit complète) répartis en **3 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
 
 État du texte : version consolidée **en vigueur au 2 octobre 2026** (base LEGI de la DILA, dernière modification enregistrée le 27 juin 2026).
 

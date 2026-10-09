@@ -76,6 +76,14 @@ Le deuxième alinéa interdit la distribution des imprimés dépourvus de la men
 
 Le quatrième alinéa règle le cas des impressions faisant appel à des techniques différentes et au concours de plusieurs imprimeurs : l'indication de l'un d'eux suffit. La règle conserve une portée pratique pour les tracts, affiches et publications imprimées ; elle ne s'applique pas, en tant que telle, aux contenus diffusés exclusivement en ligne, pour lesquels l'identification de l'éditeur relève d'autres régimes.
 
+### Article 4
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1925-05-27)
+
+L'article 4 se situait au chapitre Ier (« De l'imprimerie et de la librairie »), après l'article 3, qui impose l'indication du nom et du domicile de l'imprimeur sur tout écrit rendu public. Selon la source, il est abrogé à compter du 27 mai 1925, sans indication du texte abrogatif ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas.
+
 #### CHAPITRE II — DE LA PRESSE PERIODIQUE
 
 #### Paragraphe 1er — Du droit de publication, de la gérance, de la déclaration et du dépôt au parquet
@@ -115,6 +123,22 @@ Le deuxième alinéa détermine la personne qui exerce de plein droit cette fonc
 Les troisième et quatrième alinéas règlent l'hypothèse de l'immunité parlementaire du directeur. L'entreprise doit alors nommer, dans le délai d'un mois, un codirecteur de la publication non bénéficiaire de l'immunité, choisi, pour une personne morale, parmi les membres des organes de direction. Le but est d'éviter que l'immunité fasse obstacle à toute poursuite effective. La sanction de cette obligation figure à l'article 9 et les conséquences de son inexécution sur la chaîne de responsabilité à l'article 42.
 
 Le cinquième alinéa fixe les conditions de capacité : majorité, jouissance des droits civils et absence de privation des droits civiques. Une dérogation permet la désignation d'un mineur âgé de seize ans révolus pour les publications réalisées bénévolement ; la responsabilité des parents sur le fondement de l'article 1242 du code civil n'est alors engagée que si le mineur a lui-même commis une faute engageant sa responsabilité civile dans les conditions de la loi. Le dernier alinéa étend au codirecteur toutes les obligations du directeur, notamment celles des articles 10 à 13.
+
+### Article 7
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2012-03-24 par LOI n°2012-387 du 22 mars 2012 - art. 99 (V))
+
+L'article 7 appartenait au paragraphe consacré au droit de publication, à la gérance, à la déclaration et au dépôt au parquet (chapitre II, presse périodique), après l'article 6, qui impose un directeur de la publication à toute publication de presse. Selon la source, il est abrogé à compter du 24 mars 2012 par l'article 99 de la loi n° 2012-387 du 22 mars 2012 ; la mention « (V) » signale que la disposition abrogative est en vigueur dans la base LEGI. Son contenu n'est pas reproduit.
+
+### Article 8
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2012-03-24 par LOI n°2012-387 du 22 mars 2012 - art. 99 (V))
+
+L'article 8 a été abrogé en même temps que l'article 7, à compter du 24 mars 2012, par l'article 99 de la loi n° 2012-387 du 22 mars 2012, selon la source. Il se situait dans le même paragraphe relatif à la déclaration et au dépôt des publications périodiques ; son texte n'est pas reproduit et le commentaire ne le reconstitue pas. L'article 9, qui sanctionne les contraventions à l'article 6, demeure en vigueur.
 
 ### Article 9
 
@@ -240,6 +264,16 @@ Le texte comporte deux limites. Lorsque la mise en cause vise des personnes cons
 
 Les modalités de l'insertion (délais, place, longueur, gratuité, sanctions, prescription) sont celles de l'article 13, auquel l'article 13-1 renvoie sans les modifier.
 
+#### Paragraphe 3 — Des journaux ou écrits périodiques étrangers
+
+### Article 14
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-10-05)
+
+L'article 14 constituait le paragraphe 3 du chapitre II, intitulé « Des journaux ou écrits périodiques étrangers », dont la source conserve l'intitulé. Il est abrogé à compter du 5 octobre 2004 selon la source, qui ne précise pas le texte abrogatif et ne reproduit pas son contenu. Le paragraphe consacré aux publications étrangères n'a donc plus de disposition en vigueur.
+
 #### CHAPITRE III — DE L'AFFICHAGE
 
 #### Paragraphe 1er — De l'affichage
@@ -264,6 +298,14 @@ Le dernier alinéa sanctionne toute contravention « des peines portées en l'ar
 
 L'emplacement réservé de l'article 15 est également pris en compte par l'article 17, qui aggrave ou exclut la répression de la lacération d'affiches selon que celles-ci ont été apposées dans ces emplacements.
 
+### Article 16
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2011-05-19 par LOI n°2011-525 du 17 mai 2011 - art. 175 (V))
+
+L'article 16 appartenait au paragraphe 1er du chapitre III, consacré à l'affichage, entre l'article 15 (lieux réservés à l'affichage des actes de l'autorité publique, désignés par le maire) et l'article 17 (répression de l'enlèvement ou de l'altération des affiches). Selon la source, il est abrogé à compter du 19 mai 2011 par l'article 175 de la loi n° 2011-525 du 17 mai 2011 ; son contenu n'est pas reproduit.
+
 ### Article 17
 
 **Texte de la disposition:**
@@ -283,3 +325,45 @@ Les deux premiers alinéas protègent les affiches apposées par ordre de l'Admi
 Les deux derniers alinéas protègent les affiches électorales émanant de simples particuliers, à condition qu'elles soient apposées ailleurs que sur la propriété de l'auteur de l'atteinte : le propriétaire conserve ainsi la maîtrise de son bien. La peine est également de la troisième classe, et de la quatrième lorsque l'auteur est un fonctionnaire ou agent de l'autorité publique, sauf si les affiches ont été apposées dans les emplacements réservés à l'affichage officiel par l'article 15 ; l'agent qui retire une affiche électorale irrégulièrement placée sur un tel emplacement n'encourt donc pas l'aggravation.
 
 L'article illustre la double fonction de la loi en matière d'affichage : garantir la lisibilité de la communication officielle et protéger le pluralisme de l'expression politique pendant les campagnes électorales. Les infractions qu'il prévoit sont des contraventions, soumises au régime procédural du chapitre V (art. 45, b) et à la prescription de l'article 65.
+
+#### Paragraphe 2 — Du colportage et de la vente sur la voie publique
+
+### Article 18
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-12-10)
+
+L'article 18 ouvrait le paragraphe 2 du chapitre III, intitulé « Du colportage et de la vente sur la voie publique ». Selon la source, il est abrogé à compter du 10 décembre 2004, sans indication du texte abrogatif ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. Les articles 18 à 22, qui composaient ce paragraphe, ont tous été abrogés à la même date.
+
+### Article 19
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-12-10)
+
+L'article 19 faisait partie de le paragraphe 2 du chapitre III, intitulé « Du colportage et de la vente sur la voie publique ». Selon la source, il est abrogé à compter du 10 décembre 2004, sans indication du texte abrogatif ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. Il est mentionné pour la complétude de la numérotation de ce paragraphe, qui ne comporte plus aucun article en vigueur.
+
+### Article 20
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-12-10)
+
+L'article 20 faisait partie de le paragraphe 2 du chapitre III, intitulé « Du colportage et de la vente sur la voie publique ». Selon la source, il est abrogé à compter du 10 décembre 2004, sans indication du texte abrogatif ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. Comme les autres articles de ce paragraphe, il n'a pas de rédaction en vigueur et n'est pas commenté au fond.
+
+### Article 21
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-12-10)
+
+L'article 21 faisait partie de le paragraphe 2 du chapitre III, intitulé « Du colportage et de la vente sur la voie publique ». Selon la source, il est abrogé à compter du 10 décembre 2004, sans indication du texte abrogatif ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. Son abrogation, comme celle des articles 18 à 20 et 22, a vidé de toute disposition en vigueur le paragraphe consacré au colportage.
+
+### Article 22
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-12-10)
+
+L'article 22 clôturait le paragraphe 2 du chapitre III, intitulé « Du colportage et de la vente sur la voie publique ». Selon la source, il est abrogé à compter du 10 décembre 2004, sans indication du texte abrogatif ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. Après lui, la loi passe au chapitre IV, consacré aux crimes et délits commis par la voie de la presse ou par tout autre moyen de publication, qui s'ouvre avec l'article 23.

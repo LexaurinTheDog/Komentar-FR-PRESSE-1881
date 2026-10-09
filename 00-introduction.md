@@ -1,6 +1,6 @@
 # Commentaire de la loi du 29 juillet 1881 sur la liberté de la presse
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi du 29 juillet 1881 sur la liberté de la presse, examinée article par article — **82 articles** dans leur rédaction consolidée en vigueur, y compris les articles insérés par des lois postérieures (numérotation bis, ter, quater… ou à tirets, par exemple 2 bis, 35 ter, 38 quater, 48-1-1 ou 65-3). Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi du 29 juillet 1881 sur la liberté de la presse, examinée article par article — **99 articles** : les 82 articles en vigueur dans leur rédaction consolidée, y compris les articles insérés par des lois postérieures (numérotation bis, ter, quater… ou à tirets, par exemple 2 bis, 35 ter, 38 quater, 48-1-1 ou 65-3), ainsi que 17 articles abrogés ou périmés, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -23,7 +23,7 @@ Le commentaire est réparti en trois chapitres :
 2. Chapitre IV — Des crimes et délits commis par la voie de la presse ou par tout autre moyen de publication (art. 23 à 41-1) ;
 3. Chapitre V — Des poursuites et de la répression ; dispositions transitoires (art. 42 à 70).
 
-Les articles qui ne figurent pas dans la version consolidée de la source (lacunes de la numérotation, par exemple articles 4, 7, 8, 14, 16, 18 à 22, 25, 26, 28, 36, 65-2 ou 66) ne sont pas commentés ; lorsque d'autres articles y renvoient encore (par exemple les articles 61, 62 et 70), le commentaire le signale. Les intitulés « B. Police correctionnelle et simple police » et « C. Pourvois en cassation », qui figurent dans la source sans être suivis d'aucun article, ne sont pas repris comme repères ; l'intitulé « A. Cour d'assises » est conservé tel qu'il apparaît dans la source, bien qu'il ne corresponde plus au contenu des articles 47 à 60.
+Les articles qui n'ont plus de rédaction en vigueur (articles 4, 7, 8, 14, 16, 18 à 22, 25, 26, 28, 36, 39 ter et 65-2, abrogés, et article 66, périmé) sont reproduits tels que la source les présente, avec la date et, le cas échéant, le texte d'abrogation, afin que la numérotation soit complète ; ils font l'objet d'un commentaire bref, qui ne reconstitue pas leur contenu ; lorsque d'autres articles y renvoient encore (par exemple les articles 61, 62 et 70), le commentaire le signale. Les intitulés « B. Police correctionnelle et simple police » et « C. Pourvois en cassation », qui figurent dans la source sans être suivis d'aucun article, ne sont pas repris comme repères ; l'intitulé « A. Cour d'assises » est conservé tel qu'il apparaît dans la source, bien qu'il ne corresponde plus au contenu des articles 47 à 60.
 
 ## Méthode
 

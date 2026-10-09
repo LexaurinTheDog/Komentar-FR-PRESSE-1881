@@ -84,7 +84,23 @@ Le deuxième alinéa étend l'incrimination, avec une formulation différente (�
 
 L'aggravation pour les personnes dépositaires de l'autorité publique (trois ans et 75 000 euros) et la possibilité d'ordonner l'affichage ou la diffusion de la décision complètent le dispositif. Le délit est soumis à la prescription d'un an (art. 65-3), peut fonder l'arrêt d'un service en ligne en référé (art. 50-1) et ouvre l'action civile à certaines associations (art. 48-1-1 et 48-2).
 
+### Article 25
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1994-03-01)
+
+L'article 25 se situait au paragraphe 1er du chapitre IV, consacré à la provocation aux crimes et délits, après les articles 23 à 24 bis. Selon la source, il est abrogé à compter du 1er mars 1994, sans indication du texte abrogatif. Son contenu n'est pas reproduit. Plusieurs articles en vigueur le visent encore, notamment l'article 61 (confiscation) et l'article 62 (suspension du journal) ; ces renvois sont aujourd'hui privés d'objet.
+
 #### Paragraphe 2 — Délits contre la chose publique
+
+### Article 26
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2013-08-07 par LOI n°2013-711 du 5 août 2013 - art. 21 (V))
+
+L'article 26 ouvrait le paragraphe 2 du chapitre IV, consacré aux délits contre la chose publique. Selon la source, il est abrogé à compter du 7 août 2013 par l'article 21 de la loi n° 2013-711 du 5 août 2013 ; la mention « (V) » signale que la disposition abrogative est en vigueur dans la base LEGI. Son contenu n'est pas reproduit. Le paragraphe conserve l'article 27, qui réprime la publication, la diffusion ou la reproduction de nouvelles fausses.
 
 ### Article 27
 
@@ -101,6 +117,14 @@ L'infraction suppose la réunion de plusieurs éléments. Matériellement, il fa
 La peine est une amende de 45 000 euros, portée à 135 000 euros lorsque la publication est de nature à ébranler la discipline ou le moral des armées ou à entraver l'effort de guerre de la Nation. L'absence de peine d'emprisonnement distingue ce délit des provocations de l'article 24.
 
 Sur le plan procédural, l'article 27 relève du droit commun des délits de presse : prescription de trois mois (art. 65), qualification précise dans l'acte de poursuite (art. 50 et 53). L'article 62 permet en outre, en cas de condamnation, la suspension du journal ou du périodique pour une durée n'excédant pas trois mois. L'exigence cumulative de la mauvaise foi et du trouble à la paix publique fait de l'article 27 une incrimination d'application étroite.
+
+### Article 28
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1939-08-03)
+
+L'article 28 appartenait au paragraphe 2 du chapitre IV (délits contre la chose publique). Selon la source, il est abrogé à compter du 3 août 1939, sans mention du texte abrogatif ; son contenu n'est pas reproduit. L'article 70 y fait encore référence en réservant l'outrage aux bonnes mœurs « puni par l'article 28 » ; cette réserve n'a plus qu'une portée historique.
 
 #### Paragraphe 3 — Délits contre les personnes
 
@@ -296,6 +320,14 @@ L'article s'inscrit dans un ensemble de dispositions protectrices des victimes :
 
 #### Paragraphe 4 — Délits contre les chefs d'Etat et agents diplomatiques étrangers
 
+### Article 36
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-03-10)
+
+L'article 36 ouvrait le paragraphe 4 du chapitre IV, consacré aux délits contre les chefs d'Etat et agents diplomatiques étrangers. Selon la source, il est abrogé à compter du 10 mars 2004, sans indication du texte abrogatif ; son contenu n'est pas reproduit. Le paragraphe conserve l'article 37, relatif à l'outrage public envers les ambassadeurs et autres agents diplomatiques ; l'article 61, qui vise encore l'article 36 parmi les cas de confiscation, doit être lu en conséquence.
+
 ### Article 37
 
 **Texte de la disposition:**
@@ -437,6 +469,14 @@ L'objet de l'incrimination est large : il ne s'agit pas seulement du nom, mais d
 Le second alinéa écarte l'incrimination lorsque la publication est réalisée à la demande des personnes ayant la garde du mineur ou des autorités administratives ou judiciaires. Cette exception est essentielle en pratique, notamment pour la diffusion d'avis de recherche d'un mineur disparu. L'accord du mineur lui-même n'est pas mentionné.
 
 La disposition s'insère dans un ensemble cohérent de protections : identité des victimes d'agressions sexuelles (art. 39 quinquies), filiation d'origine des adoptés (art. 39 quater), dignité des victimes (art. 35 quater). L'article 41-1 range la communication audiovisuelle parmi les modes de publication visés.
+
+### Article 39 ter
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2000-06-16)
+
+L'article 39 ter appartenait au paragraphe 5 du chapitre IV, consacré aux publications interdites et aux immunités de la défense, entre l'article 39 bis et l'article 39 quater. Selon la source, il est abrogé à compter du 16 juin 2000, sans indication du texte abrogatif ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas.
 
 ### Article 39 quater
 

@@ -538,7 +538,7 @@ L'exclusion des autres règles spéciales signifie notamment que les délais de 
 
 L'article 61 permet, en cas de condamnation, des mesures portant sur les supports de l'infraction. Deux mesures sont distinguées.
 
-La confiscation des écrits ou imprimés, placards ou affiches saisis n'est possible que dans les cas prévus aux articles 24 (par. 1er et 3), 25, 36 et 37. Ce renvoi reflète la rédaction historique de la loi : les articles 25 et 36 ne figurent plus dans la version consolidée reproduite par la source, de sorte que les références qui les visent sont privées d'objet. Restent applicables, sous réserve de l'identification des « paragraphes » visés de l'article 24, les cas de cet article et l'outrage aux agents diplomatiques étrangers (art. 37). La confiscation suppose une saisie préalable, opérée dans les conditions de l'article 51.
+La confiscation des écrits ou imprimés, placards ou affiches saisis n'est possible que dans les cas prévus aux articles 24 (par. 1er et 3), 25, 36 et 37. Ce renvoi reflète la rédaction historique de la loi : les articles 25 et 36 sont abrogés (respectivement depuis 1994 et 2004 selon la source), de sorte que les références qui les visent sont privées d'objet. Restent applicables, sous réserve de l'identification des « paragraphes » visés de l'article 24, les cas de cet article et l'outrage aux agents diplomatiques étrangers (art. 37). La confiscation suppose une saisie préalable, opérée dans les conditions de l'article 51.
 
 La saisie et la suppression ou la destruction de tous les exemplaires mis en vente, distribués ou exposés au regard du public peuvent, en revanche, être ordonnées « dans tous les cas ». Cette mesure, plus large dans son champ, a pour objet de faire cesser la diffusion du contenu jugé illicite. La seconde phrase introduit une exigence de proportionnalité : la suppression ou la destruction peut ne porter que sur certaines parties des exemplaires saisis, par exemple les seuls passages incriminés.
 
@@ -552,7 +552,7 @@ L'article emploie le terme « arrêt », hérité d'une époque où la cour d'as
 
 L'article 62 permet, en cas de condamnation prononcée en application des articles 23, 24 (alinéas 1er et 2), 25 et 27, la suspension du journal ou du périodique, par la même décision de justice, pour une durée qui n'excède pas trois mois.
 
-La mesure est particulièrement grave, puisqu'elle interrompt la parution d'une publication. Elle est réservée aux infractions les plus attentatoires à l'ordre public : provocation suivie d'effet (art. 23), provocation non suivie d'effet aux atteintes aux personnes et aux biens (art. 24, al. 1er et 2) et fausses nouvelles (art. 27). La référence à l'article 25 est, comme à l'article 61, privée d'objet, cet article ne figurant plus dans la version consolidée. La suspension est facultative et sa durée est plafonnée, ce qui permet au juge d'en mesurer la portée.
+La mesure est particulièrement grave, puisqu'elle interrompt la parution d'une publication. Elle est réservée aux infractions les plus attentatoires à l'ordre public : provocation suivie d'effet (art. 23), provocation non suivie d'effet aux atteintes aux personnes et aux biens (art. 24, al. 1er et 2) et fausses nouvelles (art. 27). La référence à l'article 25 est, comme à l'article 61, privée d'objet, cet article étant abrogé. La suspension est facultative et sa durée est plafonnée, ce qui permet au juge d'en mesurer la portée.
 
 La seconde phrase protège les salariés : la suspension est sans effet sur les contrats de travail qui liaient l'exploitant, lequel reste tenu de toutes les obligations contractuelles ou légales qui en résultent. Les salariés de la publication, qui ne sont pas responsables de l'infraction, ne doivent pas en supporter les conséquences ; l'exploitant doit continuer à les rémunérer pendant la suspension.
 
@@ -624,6 +624,14 @@ La condition d'application est que l'atteinte ait été commise par l'un des moy
 
 À la différence de l'article 65, l'article 65-1 ne mentionne pas l'interruption par les actes d'instruction ou de poursuite, ce qui s'explique par la nature essentiellement civile de l'action qu'il vise. Le texte est à rapprocher de l'article 35 ter, qui réprime pénalement certaines atteintes spécifiques à la présomption d'innocence (images de personnes entravées, sondages sur la culpabilité), et qui relève de la prescription de l'article 65.
 
+### Article 65-2
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2026-06-12)
+
+L'article 65-2 se situait parmi les dispositions relatives à la prescription, entre l'article 65-1, consacré aux actions fondées sur une atteinte au respect de la présomption d'innocence, et l'article 65-3, qui allonge le délai de prescription pour certains délits. Selon la source, il est abrogé à compter du 12 juin 2026, sans indication du texte abrogatif ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas.
+
 ### Article 65-3
 
 **Texte de la disposition:**
@@ -657,6 +665,14 @@ Trois règles sont étendues à ces contraventions : la possibilité de requalif
 La disposition assure la cohérence du régime procédural entre les infractions publiques et non publiques à caractère discriminatoire. Les contraventions en cause n'étant pas prévues par la présente loi, elles ne relèveraient pas, sans l'article 65-4, des règles spéciales de celle-ci ; la juridiction saisie de faits dont le caractère public n'est finalement pas établi ne pourrait alors pas s'appuyer sur la même faculté de requalification ni sur le même délai de prescription, et une erreur d'appréciation sur la publicité des propos pourrait compromettre la répression. La question de la publicité, souvent délicate (propos tenus dans un cercle restreint, messages diffusés à un groupe fermé), perd ainsi une partie de son enjeu procédural.
 
 #### DISPOSITIONS TRANSITOIRES
+
+### Article 66
+
+**Texte de la disposition:**
+
+> (Périmé à compter du 1881-08-31)
+
+L'article 66 relevait des dispositions transitoires de la loi. La source le signale comme périmé à compter du 31 août 1881, c'est-à-dire peu après la promulgation de la loi : la mention de péremption indique que cette disposition transitoire a épuisé ses effets. Son contenu n'est pas reproduit et le commentaire ne le reconstitue pas ; les dispositions transitoires se poursuivent avec l'article 67, relatif aux cautionnements versés par les journaux.
 
 ### Article 67
 
@@ -716,7 +732,7 @@ L'article ne mentionne pas les départements et régions d'outre-mer, ni les col
 
 L'article 70 contient une amnistie accordée lors de l'adoption de la loi, ainsi que la formule de promulgation.
 
-Le premier alinéa amnistie tous les crimes et délits commis antérieurement au 16 février 1881 par la voie de la presse ou par d'autres moyens de publication, à l'exception de l'outrage aux bonnes mœurs puni par l'article 28 de la loi, et sans préjudice du droit des tiers. L'article 28 ne figure plus dans la version consolidée reproduite par la source, ce qui confirme la portée purement historique de la réserve. La mention du droit des tiers signifie que l'amnistie éteint l'action publique et les peines, mais laisse subsister les droits à réparation des victimes.
+Le premier alinéa amnistie tous les crimes et délits commis antérieurement au 16 février 1881 par la voie de la presse ou par d'autres moyens de publication, à l'exception de l'outrage aux bonnes mœurs puni par l'article 28 de la loi, et sans préjudice du droit des tiers. L'article 28 est abrogé depuis le 3 août 1939 selon la source, ce qui confirme la portée purement historique de la réserve. La mention du droit des tiers signifie que l'amnistie éteint l'action publique et les peines, mais laisse subsister les droits à réparation des victimes.
 
 Le deuxième alinéa règle le sort des amendes : celles qui n'ont pas été perçues ne sont pas exigées ; celles qui ont déjà été perçues ne sont pas restituées, sauf celles payées depuis le 16 février 1881. La date retenue manifeste la volonté de neutraliser les effets des condamnations prononcées pendant la période d'élaboration de la loi.
 
